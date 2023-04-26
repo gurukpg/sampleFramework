@@ -1,6 +1,6 @@
 //are you seeing this update
 //yes imported success, now you see this update
-//ok guru pull from second option
+//ok guru push
 package demo;
 
 import org.testng.Assert;
